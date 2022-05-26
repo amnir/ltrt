@@ -5,4 +5,4 @@ gensim==3.8.0
 hebrew_tokenizer==1.0.1
 keras==2.2.5
 keras_preprocessing==1.1.0
-tensorflow==1.15.2
+tensorflow==2.7.2
